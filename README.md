@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @saialif
-- 👀 I’m interested in code
-- 🌱 I’m currently learning python
-- 📫 How to reach me ...
 
 <!---
 saialif/saialif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
