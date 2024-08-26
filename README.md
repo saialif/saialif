@@ -10,8 +10,8 @@ I'm a backend developer expanding my skills into the world of frontend developme
 - Building seamless, end-to-end web solutions
 
 ### 💻 Tech Stack:
-- Backend: [List your backend skills/technologies]
-- Frontend (Learning): HTML, CSS, JavaScript, [Any frameworks you're learning]
+- Backend: PHP (laravel), Python (Django), C# (Unity)
+- Frontend (Learning): HTML, CSS, JavaScript, React.js, Next.js
 
 ### 🌱 Always Learning:
 Committed to continuous improvement and staying updated with the latest web development trends.
@@ -21,7 +21,7 @@ I am interested in projects that challenge me and expand my full-stack capabilit
 
 Let's connect and build something amazing together!
 
-[Your professional social media links]
+📫 Reach me at: alifahmadalmujahid01@gmail.com
 <!---
 saialif/saialif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
