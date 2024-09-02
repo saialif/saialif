@@ -11,8 +11,7 @@ I'm a backend developer expanding my skills into the world of frontend developme
 
 ### 💻 Tech Stack:
 - Backend: PHP (laravel), Python (Django), C# (Unity)
-- Frontend (Learning): HTML, CSS, JavaScript, React.js, Next.js
-
+- Frontend (Learning): HTML, CSS, JavaScript
 ### 🌱 Always Learning:
 Committed to continuous improvement and staying updated with the latest web development trends.
 
