@@ -10,7 +10,7 @@ I'm a backend developer expanding my skills into the world of frontend developme
 - Building seamless, end-to-end web solutions
 
 ### 💻 Tech Stack:
-- Backend: PHP (laravel), Python (Django), C# (Unity)
+- Backend: PHP (laravel), Python (Django), C# (Dotnet, Unity)
 - Frontend (Learning): HTML, CSS, JavaScript
 ### 🌱 Always Learning:
 Committed to continuous improvement and staying updated with the latest web development trends.
